@@ -102,14 +102,14 @@
 
     }
 
-    .container .content .count-down h3{
+    .container .content .count-down .box h3{
         font-size: 30px;
         
     }
 
-    .container .content .count-down span{
+    .container .content .count-down .box span{
         font-size: 15px;
-           
+
     }
     
 
